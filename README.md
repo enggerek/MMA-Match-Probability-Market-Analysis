@@ -42,7 +42,7 @@ All visuals support cross-filtering —clicking any element updates the rest of 
 - **Pinnacle** consistently shows the lowest market spread (~103.7%), making it the most efficient market for bettors
 - **BetOnline.ag** has the broadest match coverage and competitive pricing
 - **Betfair** operates as an exchange rather than a fixed-odds operator, which inflates raw margin calculations and required filtering during analysis
-- The implied probability scatter shows a clean inverse relationship — markets are internally consistent
+- The implied probability scatter shows a clean inverse relationship markets are internally consistent
 - Around half of all match-operator observations fall into the "Low Spread" category, suggesting consistent pricing across most operators
 
 ---
