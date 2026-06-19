@@ -37,7 +37,7 @@ All visuals support cross-filtering —clicking any element updates the rest of 
 
 ---
 
-##Key Insights
+## Key Insights
 
 - **Pinnacle** consistently shows the lowest market spread (~103.7%), making it the most efficient market for bettors
 - **BetOnline.ag** has the broadest match coverage and competitive pricing
