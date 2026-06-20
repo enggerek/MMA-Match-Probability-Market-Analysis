@@ -33,7 +33,7 @@ The dashboard includes:
 - *Scatter plot:* Fighter 1 vs Fighter 2 implied win probability for every active match
 - *Interactive slicer:* filter all visuals by data source
 
-All visuals support cross-filtering —clicking any element updates the rest of the dashboard.
+All visuals support cross-filtering clicking any element updates the rest of the dashboard.
 
 ---
 
@@ -41,9 +41,9 @@ All visuals support cross-filtering —clicking any element updates the rest of 
 
 - **Pinnacle** consistently shows the lowest market spread (~103.7%), making it the most efficient market for bettors
 - **BetOnline.ag** has the broadest match coverage and competitive pricing
-- **Betfair** operates as an exchange rather than a fixed-odds operator, which inflates raw margin calculations and required filtering during analysis
+- **Betfair** operates as an exchange rather than a fixed odds operator, which inflates raw margin calculations and required filtering during analysis
 - The implied probability scatter shows a clean inverse relationship markets are internally consistent
-- Around half of all match-operator observations fall into the "Low Spread" category, suggesting consistent pricing across most operators
+- Around half of all match operator observations fall into the "Low Spread" category, suggesting consistent pricing across most operators
 
 ---
 
